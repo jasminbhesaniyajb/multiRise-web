@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="26px" viewBox="0 0 34 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>YouTube</title>
+    <g id="Front-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Landing-Page" transform="translate(-326.000000, -4570.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Footer" transform="translate(0.000000, 4533.000000)">
+                <g id="Social-Media" transform="translate(70.000000, 34.000000)">
+                    <g id="YouTube" transform="translate(257.635659, 4.571429)">
+                        <polygon id="Stroke-100" points="11.5749354 5.33333333 11.5749354 17.5238095 21.6563307 11.4285714"></polygon>
+                        <path d="M31.3643411,17.777415 C31.3643411,20.042449 29.6393023,21.927619 27.3972927,22.1159184 C23.6097781,22.4348299 20.5036268,22.8571429 15.6821705,22.8571429 C11.0402481,22.8571429 7.75456295,22.4348299 3.96704838,22.1159184 C1.72503876,21.927619 2.84217094e-13,20.042449 2.84217094e-13,17.777415 L2.84217094e-13,5.07863946 C2.84217094e-13,2.81360544 1.72503876,0.928435374 3.96704838,0.740136054 C7.75456295,0.42122449 11.2208634,-7.81597009e-13 15.6821705,-7.81597009e-13 C20.3684357,-7.81597009e-13 23.6097781,0.42122449 27.3972927,0.740136054 C29.6393023,0.928435374 31.3643411,2.81360544 31.3643411,5.07863946 L31.3643411,17.777415 Z" id="Stroke-101"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

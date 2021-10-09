@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="120">
+    <g fill="#f8b505" stroke="#f8b505">
+        <use xlink:href="#B" stroke-width="2.0833"/>
+        <use xlink:href="#B" stroke-width="4.1667" stroke-miterlimit="10"/>
+    </g>
+    <defs >
+        <path id="B" d="M126.8752 117.0834l50.2081-57.5002-50.2081-57.4999-10.6975 14.206 29.3435 33.605H2.0833v19.3851h143.4435l-29.3463 33.605z"/>
+    </defs>
+</svg>

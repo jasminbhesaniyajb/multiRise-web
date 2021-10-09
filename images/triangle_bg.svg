@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="397px" height="586px" viewBox="0 0 397 586" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 12</title>
+    <g id="Front-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-679.000000, -3049.000000)">
+            <g id="Header" transform="translate(-902.000000, 3049.000000)">
+                <g id="Group-12" transform="translate(1581.000000, 0.000000)">
+                    <polygon id="矩形" fill="#FFCA3D" transform="translate(198.500000, 293.000000) scale(-1, -1) translate(-198.500000, -293.000000) " points="1.71474367e-12 2.08189022e-12 397 586 226 586"></polygon>
+                    <polygon id="矩形" fill="#FFBF17" transform="translate(284.000000, 293.000000) scale(-1, -1) translate(-284.000000, -293.000000) " points="171 2.08189022e-12 397 586 257.822792 586"></polygon>
+                    <polygon id="矩形" fill="#FFB900" transform="translate(353.588604, 293.000000) scale(-1, -1) translate(-353.588604, -293.000000) " points="310.177208 2.08189022e-12 397 586 310.177208 586"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
